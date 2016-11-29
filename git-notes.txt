@@ -1,0 +1,2 @@
+To make a git reporistory run:
+git ini SOME_FOLDER
